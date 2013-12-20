@@ -1,12 +1,9 @@
 fedora-packages
 ===============
 
-spec files and patches for packages I maintain for the [Fedora Project][fedora]. Most of these are [packaged][pkgdb] to official Fedora Desktop release. Those that are not will be usually available through [personal unofficial repos][myrepos].
-
-[fedora]: http://fedoraproject.org/
-[pkgdb]: https://admin.fedoraproject.org/pkgdb/users/packages/comzeradd
-[myrepos]: http://repos.fedorapeople.org/repos/comzeradd/
-
+Forked version of the [github repo][https://github.com/comzeradd/fedora-packages] by comzeradd.
+Mainly forked for the firefox-aurora.spec file to facilitate the creation
+of rpmbuild files for Firefox nightlies.
 
 license
 -------
