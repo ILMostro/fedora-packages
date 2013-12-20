@@ -1,9 +1,12 @@
 fedora-packages
 ===============
 
-Forked version of the [github repo][https://github.com/comzeradd/fedora-packages] by comzeradd.
+Forked version of the [github repo][comzeradd] by comzeradd.
 Mainly forked for the firefox-aurora.spec file to facilitate the creation
 of rpmbuild files for Firefox nightlies.
+
+[comzeradd]: https://github.com/comzeradd/fedora-packages 
+
 
 license
 -------
